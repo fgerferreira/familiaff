@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/a0ada072-5074-411c-88eb-acb7340d622f/microsoft.web/sites/subscriptions/a0ada072-5074-411c-88eb-acb7340d622f/resourceGroups/portal-ff-rg/providers/Microsoft.Web/sites/familia-ff",
+    "appService.deploySubpath": "."
+}
